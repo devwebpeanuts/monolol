@@ -48,7 +48,7 @@ $logger->error('This burger has no cheese');
 
 AVAILABLE LOLIFIERS
 -------------------
-
+- _Blackout_: Forgot half the sentence
 - _Shuffle_: Words contained in the record message will be randomly shuffled
 - _Confuse_: This lolifier will change randomly the log level of the record
 - _GeekTime_: Records will be handled only if it's 1:37pm (13:37)
