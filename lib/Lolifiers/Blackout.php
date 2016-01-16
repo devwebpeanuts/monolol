@@ -6,7 +6,7 @@ use Monolol\Lolifier;
 
 class Blackout implements Lolifier
 {
-    const MESSAGE = ' ... hum ... i forgot the rest of this sentence';
+    const MESSAGE = ' ... ummm ... wait ... what were we talking about again ?';
 
     public function isHandling(array $record)
     {
