@@ -2,7 +2,6 @@
 
 namespace Monolol\Lolifiers;
 
-
 class BlackoutTest extends \PHPUnit_Framework_TestCase
 {
     private $blackout;

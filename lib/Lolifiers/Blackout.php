@@ -2,7 +2,6 @@
 
 namespace Monolol\Lolifiers;
 
-
 use Monolol\Lolifier;
 
 class Blackout implements Lolifier
